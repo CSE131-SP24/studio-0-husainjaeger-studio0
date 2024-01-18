@@ -16,4 +16,3 @@ public class MileageReport {
 		System.out.println("Total price spent on gas was $" + totalPrice);
 	}
 }
-//hi
